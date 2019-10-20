@@ -5,7 +5,7 @@ body {
 
 .header {
   align-items: center;
-  background-color: #ffff81;
+  background-color: #fff350;
   color: black;
   display: flex;
   height: 100px;
@@ -20,7 +20,7 @@ body {
 }
 
 .login {
-  background-image: linear-gradient(#ffff81, #c9bc1f);
+  background-image: linear-gradient(#fff350, #c79100);
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -98,7 +98,7 @@ body {
 
 .footer {
   align-items: center;
-  background-color: #c9bc1f;
+  background-color: #c79100;
   display: flex;
   height: 100px;
   width: 100%;
