@@ -30,7 +30,7 @@ body {
 }
 
 .login__container {
-  background-color: white;
+  background-color: #fffde7;
   border: 2px solid #c8b900;
   border-radius: 40px;
   box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
